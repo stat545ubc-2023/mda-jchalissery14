@@ -5,6 +5,6 @@ Each section of the mini-analysis project will have comments on my thought proce
 
 ## Files included: 
 1. README.md
-2. mini-analysis-1.Rmd
-3. mini-analysis-1.md
+2. mini_analysis_1.Rmd
+3. mini_analysis_1.md
 
