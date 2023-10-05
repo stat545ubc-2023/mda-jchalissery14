@@ -181,13 +181,13 @@ comments outside of the code chunk?
 ### Choice 1
 
 ``` r
-class(steam_games)   # find out the class type (3) of the dataset
+class(steam_games)   # find out the class type (1) of the dataset
 ```
 
     ## [1] "spec_tbl_df" "tbl_df"      "tbl"         "data.frame"
 
 ``` r
-glimpse(steam_games) # find out number of rows (1) and number of columns (2)
+glimpse(steam_games) # find out number of rows (2) and number of columns (3)
 ```
 
     ## Rows: 40,833
@@ -217,13 +217,13 @@ glimpse(steam_games) # find out number of rows (1) and number of columns (2)
 ### Choice 2
 
 ``` r
-class(cancer_sample)      # find out the class type (3) of the dataset
+class(cancer_sample)      # find out the class type (1) of the dataset
 ```
 
     ## [1] "spec_tbl_df" "tbl_df"      "tbl"         "data.frame"
 
 ``` r
-glimpse(cancer_sample)    # find out number of rows (1) and number of columns (2)
+glimpse(cancer_sample)    # find out number of rows (2) and number of columns (3)
 ```
 
     ## Rows: 569
@@ -264,13 +264,13 @@ glimpse(cancer_sample)    # find out number of rows (1) and number of columns (2
 ### Choice 3
 
 ``` r
-class(vancouver_trees)    # find out the class type (3) of the dataset
+class(vancouver_trees)    # find out the class type (1) of the dataset
 ```
 
     ## [1] "tbl_df"     "tbl"        "data.frame"
 
 ``` r
-glimpse(vancouver_trees)  # find out number of rows (1) and number of columns (2)
+glimpse(vancouver_trees)  # find out number of rows (2) and number of columns (3)
 ```
 
     ## Rows: 146,611
@@ -299,13 +299,13 @@ glimpse(vancouver_trees)  # find out number of rows (1) and number of columns (2
 ### Choice 4
 
 ``` r
-class(apt_buildings)      # find out the class type (3) of the dataset
+class(apt_buildings)      # find out the class type (1) of the dataset
 ```
 
     ## [1] "tbl_df"     "tbl"        "data.frame"
 
 ``` r
-glimpse(apt_buildings)    # find out number of rows (1) and number of columns (2)
+glimpse(apt_buildings)    # find out number of rows (2) and number of columns (3)
 ```
 
     ## Rows: 3,455
