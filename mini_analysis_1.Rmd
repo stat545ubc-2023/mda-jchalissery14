@@ -104,26 +104,26 @@ And that is exactly the first thing that you will do!
 <!-------------------------- Start your work below ---------------------------->
 ### Choice 1
 ```{r}
-class(steam_games)   # find out the class type (3) of the dataset
-glimpse(steam_games) # find out number of rows (1) and number of columns (2)
+class(steam_games)   # find out the class type (1) of the dataset
+glimpse(steam_games) # find out number of rows (2) and number of columns (3)
 ```
 
 ### Choice 2
 ```{r}
-class(cancer_sample)      # find out the class type (3) of the dataset
-glimpse(cancer_sample)    # find out number of rows (1) and number of columns (2)
+class(cancer_sample)      # find out the class type (1) of the dataset
+glimpse(cancer_sample)    # find out number of rows (2) and number of columns (3)
 ```
 
 ### Choice 3
 ```{r}
-class(vancouver_trees)    # find out the class type (3) of the dataset
-glimpse(vancouver_trees)  # find out number of rows (1) and number of columns (2)
+class(vancouver_trees)    # find out the class type (1) of the dataset
+glimpse(vancouver_trees)  # find out number of rows (2) and number of columns (3)
 ```
 
 ### Choice 4
 ```{r}
-class(apt_buildings)      # find out the class type (3) of the dataset
-glimpse(apt_buildings)    # find out number of rows (1) and number of columns (2)
+class(apt_buildings)      # find out the class type (1) of the dataset
+glimpse(apt_buildings)    # find out number of rows (2) and number of columns (3)
 ```
 
 <!----------------------------------------------------------------------------->
