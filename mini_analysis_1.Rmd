@@ -243,13 +243,21 @@ diameter_genus
 
 <!--- *****START HERE***** --->
 
-1. What is the genus with the highest number of trees in Vancouver?
+1.  What is the genus with the highest number of trees in Vancouver?
+    Since I mainly focused on species in this analysis assignment, I would also like to explore more about tree genera. 
 
-2. What is the height range distribution of trees in each neighbourhood? (using multiple panels)
+2.  What is the height range distribution of trees in each neighbourhood? (using multiple panels)
+    Since I mostly focused on diameter in this assignment, I would like to explore more about height range.
+    I would also like to try making a graph with multiple panels. 
 
-3. What is the average height range of trees in Oakridge compared to Downtown? 
+3.  What is the average height range of trees in Oakridge compared to Downtown?
+    Again, I would like to explore the height range more this time around.
+    Since I focused on the Marpole neighbourhood in this assignment, I would like to look at other neighbourhoods as well.
 
-4. What is the geographical distribution of the genus with the largest average height range? (using a scatterplot - latitude and longitude)
+4.  What is the geographical distribution of the genus with the largest average height range?
+    (using a scatterplot - latitude and longitude)
+    I am interested in the distribution of height range - not just numerically but also geographically.
+    I think it would be very interesting to visualize this in a graph. 
 
 <!----------------------------->
 
