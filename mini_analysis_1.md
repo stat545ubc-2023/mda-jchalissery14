@@ -481,8 +481,9 @@ ggplot(average_diameter, aes(species_name, avg_diam)) +
 ```
 
 ![](mini_analysis_1_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
-\#### Number 5: Filter observations in your data according to your own
-criteria. In this section, I wanted to find the species with the largest
+
+#### Number 5: Filter observations in your data according to your own criteria. 
+In this section, I wanted to find the species with the largest
 diameter in Marpole. To do this, I took the average diameter variable I
 made in Number 4, and filtered for the maximal value. This gave me the
 species with the largest average diameter in Marpole: Saccharinum.
