@@ -1,7 +1,7 @@
 # mda-project-template
 This repository is a mini data analysis project that I am working on to practice using the *tidyverse* packages to analyze and visualize data. In the first analysis, I will be mainly focusing on using *dplyr* and *ggplot2*. In the second analysis, I will mainly be focused on analyzing tidy data and fitting a model object to my data. Each section of the mini-analysis project will have comments on my thought process to orient anyone who reads it. You can run the code in RStudio to visualize the graphs or view them through the md file that is in this repository. 
 
-## Milestone 1: 
+## Milestone 1 Overview: 
 * Instructions 
 * Learning Objectives 
 * Task 1: Choose your favourite dataset 
@@ -9,7 +9,7 @@ This repository is a mini data analysis project that I am working on to practice
 * Task 3: Choose research questions 
 * Overall reproducibility/cleanliness/coherence checklist 
 
-## Milestone 2: 
+## Milestone 2 Overview: 
 * Instructions 
 * Learning Objectives 
 * Setup 
